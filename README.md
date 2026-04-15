@@ -47,7 +47,7 @@ Each model folder follows the same four-section pipeline. You can run them indep
 
 ---
 
-## The four-section pipeline
+## The four-section pipeline in all the LLM notebooks
 
 ### Section 5: Feature Extraction
 
@@ -248,6 +248,5 @@ If you use this code or build on our findings, please cite:
 
 ## Acknowledgments
 
-We thank the Khoury College of Computer Sciences at Northeastern University for
-computational resources, and the TransformerLens team for making mechanistic
+We thank the TransformerLens team for making mechanistic
 interpretability tooling accessible to the research community.
